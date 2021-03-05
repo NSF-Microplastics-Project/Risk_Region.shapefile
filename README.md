@@ -45,10 +45,6 @@ Please create an [issue](https://github.com/NSF-Microplastics-Project/Risk_Regio
 
 <br>
 
------
-
-<br>
-
 # Current Shapefile Creation Method
 
 The risk regions contained within this repository are based off of HUC08 watershed and HUC12 boundaries from USGS WBD as provided on 2021-03-04.
