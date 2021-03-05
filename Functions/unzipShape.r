@@ -8,6 +8,7 @@
 ###################################################################################################################################
 
 source(unzipShape <- function(InputZipShapefile){
+  require(sf)
   dl.temp <- tempfile() # Create local temp file for zipped shapefile
   dl.temp2 <- tempfile() # Create a second local temp file to store unzipped shapefile
   download.file(InputZipShapefile, dl.temp, quiet=T) # Downloads zip file from InputShape
