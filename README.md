@@ -6,7 +6,7 @@ This repository houses the IETC NSF Microplastics study risk regions and its ass
 
 ## Usage
 
-This shapefile should be accessed directly from GitHub to ensure the latest version is used in analyses. This method requires that the [sf package](https://r-spatial.github.io/sf/) is installed in RStudio. Follow these steps to use this shapefile in RStudio:
+This shapefile should be accessed directly from GitHub to ensure the latest version is used in analyses. This method requires the [sf package](https://r-spatial.github.io/sf/). Follow these steps to use this shapefile in RStudio:
 
 1. Load `unzipShape` Function into RStudio (R source file)
 2. Obtain Raw File Address (See Below) and Store as a Variable in RStudio
