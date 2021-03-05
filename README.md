@@ -2,7 +2,10 @@
 
 <br>
 
-This repository houses the IETC NSF Microplastics study risk regions and its associated documentation. This zipped shapefile will always be the most up to date data available.
+This repository houses the IETC NSF Microplastics study risk regions and its associated documentation. This zipped shapefile will always be the most up to date data available. The risk regions are projected in:
+
+- NAD 1983 (2011) StatePlane California III FIPS 0403 (Meters)
+- WKID: 6419
 
 ## Usage
 
