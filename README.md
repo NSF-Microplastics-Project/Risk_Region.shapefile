@@ -12,8 +12,6 @@ This shapefile should be accessed directly from GitHub to ensure the latest vers
 2. Obtain Raw File Address (See Below) and Store as a Variable in RStudio
 3. Use Raw Address as Input to UnzipShape Function; Store as Variable
 
-<br>
-
 #### Example
 
 1. Load `unzipShape Function`:
@@ -38,6 +36,7 @@ File | Location
 NSF Microplastics Risk Regions Shapefile | [Data Folder](https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/tree/main/Data)
 unzipShape Function | [Functions Folder](https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/tree/main/Functions)
 
+<br>
 
 ## Issues/Problems?
 
