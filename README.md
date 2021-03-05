@@ -14,7 +14,7 @@ This shapefile should be accessed directly from GitHub to ensure the latest vers
 
 #### Example
 
-1. Load `unzipShape Function` and `sf` Library:
+1. Load `unzipShape Function`:
 ```R
 source("https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/raw/main/Functions/unzipShape.r")
 ```
