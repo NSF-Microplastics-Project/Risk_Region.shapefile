@@ -9,17 +9,18 @@ This repository houses the IETC NSF Microplastics study risk regions and its ass
 
 ## Usage
 
-This shapefile should be accessed directly from GitHub to ensure the latest version is used in analyses. This method requires the [sf package](https://r-spatial.github.io/sf/). Follow these steps to use this shapefile in RStudio:
+This shapefile should be accessed directly from GitHub to ensure the latest version is used in analyses. This method requires the [sf](https://r-spatial.github.io/sf/) and IETC package. Follow these steps to use this shapefile in RStudio:
 
-1. Load `unzipShape` Function into RStudio (R source file)
+1. Install/Load IETC Library
 2. Obtain Raw File Address (See Below) and Store as a Variable in RStudio
-3. Use Raw Address as Input to UnzipShape Function; Store as Variable
+3. Use Raw Address as Input to unzipShape() Function; Store as Variable
 
 #### Example
 
-1. Load `unzipShape Function`:
+1. Load IETC package for `unzipShape Function`:
 ```R
-source("https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/raw/main/Functions/unzipShape.r")
+devtools::install_github("WWU-IETC-R-Collab/IETC")
+library(IETC)
 ```
 2. Raw Address:
 ```R
