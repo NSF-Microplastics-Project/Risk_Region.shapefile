@@ -24,7 +24,7 @@ library(IETC)
 ```
 2. Raw Address:
 ```R
-RiskRegions.z <- "https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/raw/main/Data/SFB_RiskRegions_20210304.zip"
+RiskRegions.z <- "https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/raw/main/Data/SFB_RiskRegions_20210304_SP.zip"
 ```
 3. Load Shapefile Using `unzipShape` and Raw Address:
 ```R
