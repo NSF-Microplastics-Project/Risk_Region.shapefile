@@ -38,7 +38,7 @@ RiskRegions <- unzipShape(RiskRegions.z)
 File | Location
 ------------ | -------------
 NSF Microplastics Risk Regions Shapefile | [Data Folder](https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/tree/main/Data)
-unzipShape Function | [Functions Folder](https://github.com/NSF-Microplastics-Project/Risk_Region.shapefile/tree/main/Functions)
+IETC Package and unzipShape Function | [WWU R Collab](https://github.com/WWU-IETC-R-Collab/IETC)
 
 <br>
 
